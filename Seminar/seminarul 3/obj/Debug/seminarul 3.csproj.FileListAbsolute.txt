@@ -1,0 +1,31 @@
+D:\PAW\seminarul 3\bin\Debug\seminarul 3.exe.config
+D:\PAW\seminarul 3\bin\Debug\seminarul 3.exe
+D:\PAW\seminarul 3\bin\Debug\seminarul 3.pdb
+D:\PAW\seminarul 3\obj\Debug\seminarul 3.csproj.AssemblyReference.cache
+D:\PAW\seminarul 3\obj\Debug\seminarul_3.Form1.resources
+D:\PAW\seminarul 3\obj\Debug\seminarul_3.Properties.Resources.resources
+D:\PAW\seminarul 3\obj\Debug\seminarul 3.csproj.GenerateResource.cache
+D:\PAW\seminarul 3\obj\Debug\seminarul 3.csproj.CoreCompileInputs.cache
+D:\PAW\seminarul 3\obj\Debug\seminarul 3.exe
+D:\PAW\seminarul 3\obj\Debug\seminarul 3.pdb
+C:\Users\stud\Downloads\seminarul 3\bin\Debug\seminarul 3.exe.config
+C:\Users\stud\Downloads\seminarul 3\bin\Debug\seminarul 3.exe
+C:\Users\stud\Downloads\seminarul 3\bin\Debug\seminarul 3.pdb
+C:\Users\stud\Downloads\seminarul 3\obj\Debug\seminarul 3.csproj.AssemblyReference.cache
+C:\Users\stud\Downloads\seminarul 3\obj\Debug\seminarul_3.Form1.resources
+C:\Users\stud\Downloads\seminarul 3\obj\Debug\seminarul_3.Properties.Resources.resources
+C:\Users\stud\Downloads\seminarul 3\obj\Debug\seminarul 3.csproj.GenerateResource.cache
+C:\Users\stud\Downloads\seminarul 3\obj\Debug\seminarul 3.csproj.CoreCompileInputs.cache
+C:\Users\stud\Downloads\seminarul 3\obj\Debug\seminarul 3.exe
+C:\Users\stud\Downloads\seminarul 3\obj\Debug\seminarul 3.pdb
+D:\Facultate\PAW\SEMINAR\seminarul 3\bin\Debug\seminarul 3.exe.config
+D:\Facultate\PAW\SEMINAR\seminarul 3\bin\Debug\seminarul 3.exe
+D:\Facultate\PAW\SEMINAR\seminarul 3\bin\Debug\seminarul 3.pdb
+D:\Facultate\PAW\SEMINAR\seminarul 3\obj\Debug\seminarul 3.csproj.AssemblyReference.cache
+D:\Facultate\PAW\SEMINAR\seminarul 3\obj\Debug\seminarul 3.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\PAW\SEMINAR\seminarul 3\obj\Debug\seminarul_3.Form1.resources
+D:\Facultate\PAW\SEMINAR\seminarul 3\obj\Debug\seminarul_3.Properties.Resources.resources
+D:\Facultate\PAW\SEMINAR\seminarul 3\obj\Debug\seminarul 3.csproj.GenerateResource.cache
+D:\Facultate\PAW\SEMINAR\seminarul 3\obj\Debug\seminarul 3.csproj.CoreCompileInputs.cache
+D:\Facultate\PAW\SEMINAR\seminarul 3\obj\Debug\seminarul 3.exe
+D:\Facultate\PAW\SEMINAR\seminarul 3\obj\Debug\seminarul 3.pdb
