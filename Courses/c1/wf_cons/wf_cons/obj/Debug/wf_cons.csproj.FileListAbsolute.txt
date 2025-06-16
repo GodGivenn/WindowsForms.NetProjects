@@ -1,0 +1,7 @@
+D:\PAW_24_25\wf_cons\wf_cons\bin\Debug\wf_cons.exe.config
+D:\PAW_24_25\wf_cons\wf_cons\bin\Debug\wf_cons.exe
+D:\PAW_24_25\wf_cons\wf_cons\bin\Debug\wf_cons.pdb
+D:\PAW_24_25\wf_cons\wf_cons\obj\Debug\wf_cons.csproj.AssemblyReference.cache
+D:\PAW_24_25\wf_cons\wf_cons\obj\Debug\wf_cons.csproj.CoreCompileInputs.cache
+D:\PAW_24_25\wf_cons\wf_cons\obj\Debug\wf_cons.exe
+D:\PAW_24_25\wf_cons\wf_cons\obj\Debug\wf_cons.pdb
